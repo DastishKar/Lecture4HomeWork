@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Lecture4-HomeWork</string>
+    <string name="str"> Post Title</string>
+    <string name="strHint">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam molestie nisl ac faucibus blandit. Donec quis nulla quis quam vestibulum egestas at eget velit. Praesent nec ex quis nisl ullamcorper euismod. Vestibulum accumsan a...</string>
+</resources>
